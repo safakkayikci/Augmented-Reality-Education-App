@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec070afe0e8f4181a1b177d5ceb9ff0, type: 3}
+  m_Name: MergeConfigurationFile
+  m_EditorClassIdentifier: 
+  licenseKey: 2C43E3-D86825+595aFf79dbe08531de2A8B73F7ac2053-6251Cf76C246d8B8-fD40F86986128F666225CD48+f52e8882f7-911c754A4D/a51ba9A6c52f+3C/34135EC1F3BAFc2/8A/23Ce6F46E865-CA23510345F3bC2/B0cbCbeA-9+9a23C3C-bF3FFBD1cb1E7a-LMc1039B-d365s2JEaV
+  scaleFactor: 0
+  customScaleFactor: 1
+  chosenScaleFactor: 1
